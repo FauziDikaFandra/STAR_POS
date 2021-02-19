@@ -1,0 +1,4 @@
+2/23/2015 12:54:26 PM Login Success 1001 / Artiyah        
+2/23/2015 12:56:57 PM Login Success 1001 / Artiyah        
+2/23/2015 12:57:59 PM Verifikasi Success -2 1001 / Artiyah        
+2/23/2015 12:58:02 PM Cancel Transaction S002203-23022015-0001 1001 / Artiyah        

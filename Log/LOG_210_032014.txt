@@ -1,0 +1,7 @@
+3/20/2014 2:38:46 PM OpenKoneksi Login failed for user 'sa'. -2147217843
+3/20/2014 2:39:13 PM Login Success 1313 / Deddy          
+3/20/2014 2:39:28 PM frmPayment Cek Lunas Type mismatch 13
+3/20/2014 2:39:41 PM frmPayment Upload_to_Server Violation of PRIMARY KEY constraint 'PK_Sales_Transactions'. Cannot insert duplicate key in object 'dbo.Sales_Transactions'. -2147217873
+3/20/2014 2:39:42 PM frmPayment Cek Lunas Type mismatch 13
+3/20/2014 2:40:29 PM Login Success 1313 / Deddy          
+3/20/2014 2:41:46 PM Login Success 1313 / Deddy          

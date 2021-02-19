@@ -1,0 +1,9 @@
+11/29/2013 4:48:53 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+11/29/2013 5:12:59 PM Login Success 1313 / Deddy          
+11/29/2013 5:16:57 PM Login Success 1313 / Deddy          
+11/29/2013 5:17:43 PM Login Success 1313 / Deddy          
+11/29/2013 5:19:58 PM Login Success 1313 / Deddy          
+11/29/2013 5:21:06 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+11/29/2013 5:23:04 PM Login Success 1313 / Deddy          
+11/29/2013 5:30:28 PM Login Success 1313 / Deddy          
+11/29/2013 5:32:30 PM Login Success 1313 / Deddy          

@@ -1,0 +1,43 @@
+10/8/2012 12:01:37 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:02:44 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:05:16 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:17:19 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:19:49 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:23:59 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:27:17 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:31:57 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:32:05 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:34:25 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:36:03 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:46:03 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:51:31 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:52:12 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 12:57:56 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:07:21 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:07:38 AM frmPayment Incorrect syntax near the keyword 'and'. -2147217900 Simpan_Detail
+10/8/2012 1:09:02 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:11:21 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:14:56 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:14:58 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:17:12 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:19:30 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:23:16 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:30:31 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:31:54 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:36:10 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:40:30 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 1:45:26 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 9:10:58 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 9:11:32 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 9:38:45 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 9:50:01 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 9:50:23 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 9:57:12 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 9:57:25 AM frmPayment The connection cannot be used to perform this operation. It is either closed or invalid in this context. 3709 Paid_To_Sales
+10/8/2012 9:57:28 AM frmPayment Object variable or With block variable not set 91 Simpan_Detail
+10/8/2012 10:00:37 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 10:00:52 AM frmPayment Object variable or With block variable not set 91 Simpan_Detail
+10/8/2012 10:02:16 AM LOGIN SUCCESS 4180/Batman         
+10/8/2012 10:02:38 AM frmPayment Violation of PRIMARY KEY constraint 'PK_Sales_Transactions'. Cannot insert duplicate key in object 'dbo.Sales_Transactions'. -2147217873 Upload_to_Server
+10/8/2012 10:02:39 AM frmPayment Object variable or With block variable not set 91 Simpan_Detail
+10/8/2012 10:03:56 AM LOGIN SUCCESS 4180/Batman         

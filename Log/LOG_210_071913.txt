@@ -1,0 +1,4 @@
+7/19/2013 6:10:18 PM Login Success 1313 / Deddy          
+7/19/2013 6:12:30 PM Login Success 1313 / Deddy          
+7/19/2013 7:40:33 PM Verifikasi Success -2 1313 / Deddy          
+7/19/2013 7:40:36 PM Cancel Transaction S001210-19072013-0032 1313 / Deddy          

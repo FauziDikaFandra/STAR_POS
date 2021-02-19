@@ -1,0 +1,9 @@
+1. isi config Email_Path (drive file akan di simpan)
+2. pastikan folder EReceiptEmail di server
+3. isprint di promo hdr harus 1 untuk memunculkan struk tambahan
+4. tambahkan 4 kolom di hdr local dan server
+dbo.EReceipt_Email
+dbo.EReceipt_Email_Contact
+dbo.EReceipt_Email_Detail
+dbo.EReceipt_Email_Detail_Voucher
+5. tambahkan parameter lokasi voucher

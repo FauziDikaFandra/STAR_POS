@@ -1,0 +1,140 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Project\POSPOS\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+TIBase6.DLL=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+C:\Program Files\ComponentOne Studio\VS FlexGridPro 8.0\bin\vsflex8.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\Windows\System32\ComCt332.ocx=
+C:\Windows\System32\MSCOMCTL.OCX=
+C:\Windows\System32\msstdfmt.dll=
+C:\Windows\System32\truedc8.ocx=
+C:\Windows\System32\titext8.ocx=
+C:\Windows\System32\tishare8.dll=
+C:\Windows\System32\tinumb8.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\Project\POSPOS\PrjPos.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\tinumb8.ocx=Yes
+C:\Windows\System32\tishare8.dll=Yes
+C:\Program Files\ComponentOne Studio\VS FlexGridPro 8.0\bin\vsflex8.ocx=Yes
+C:\Windows\System32\titext8.ocx=Yes
+C:\Windows\System32\truedc8.ocx=Yes
+C:\Windows\System32\xadb8.ocx=Yes
+C:\Windows\System32\TDBWSnk6.dll=Yes
+C:\Windows\System32\vbscript.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Windows\System32\MSBind.dll=Yes
+C:\Windows\System32\msstdfmt.dll=Yes
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\mscomct2.ocx=Yes
+C:\Windows\System32\ComCt332.ocx=Yes
+C:\Windows\System32\MSDatGrd.ocx=Yes
+C:\Windows\System32\MSAdoDc.ocx=Yes
+C:\Windows\System32\todg8.ocx=Yes
+C:\Windows\System32\todgub8.dll=Yes
+C:\Windows\System32\tdbgpp8.dll=Yes
+C:\Windows\System32\todl8.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\Project\POSPOS\PrjPos.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\tinumb8.ocx=$(WinSysPath)
+C:\Windows\System32\tishare8.dll=$(WinSysPathSysFile)
+C:\Program Files\ComponentOne Studio\VS FlexGridPro 8.0\bin\vsflex8.ocx=$(WinSysPath)
+C:\Windows\System32\titext8.ocx=$(WinSysPath)
+C:\Windows\System32\truedc8.ocx=$(WinSysPath)
+C:\Windows\System32\xadb8.ocx=$(WinSysPath)
+C:\Windows\System32\TDBWSnk6.dll=$(WinSysPath)
+C:\Windows\System32\vbscript.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+C:\Windows\System32\MSBind.dll=$(WinSysPath)
+C:\Windows\System32\msstdfmt.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\System32\mscomct2.ocx=$(WinSysPath)
+C:\Windows\System32\ComCt332.ocx=$(WinSysPath)
+C:\Windows\System32\MSDatGrd.ocx=$(WinSysPath)
+C:\Windows\System32\MSAdoDc.ocx=$(WinSysPath)
+C:\Windows\System32\todg8.ocx=$(WinSysPath)
+C:\Windows\System32\todgub8.dll=$(WinSysPath)
+C:\Windows\System32\tdbgpp8.dll=$(WinSysPath)
+C:\Windows\System32\todl8.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\Project\POSPOS\PrjPos.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=iPOS
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=iPOS
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|iPOS]
+Icon1=PrjPos.exe
+Title1=iPOS
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\Project\POSPOS\Package
+ProjectFolder=D:\Project\POSPOS
+ServerSideCab=
+File1=D:\Project\POSPOS\Package\setup.exe
+File2=D:\Project\POSPOS\Package\Setup.Lst
+File3=D:\Project\POSPOS\Package\PrjPos.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

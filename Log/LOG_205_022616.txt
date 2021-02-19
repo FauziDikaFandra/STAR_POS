@@ -1,0 +1,7 @@
+2/26/2016 4:46:53 PM OpenKoneksi Cannot open database "POS_SERVER_SMS1" requested by the login. The login failed. -2147467259
+2/26/2016 4:47:04 PM OpenKoneksi Cannot open database "POS_SERVER_SMS1" requested by the login. The login failed. -2147467259
+2/26/2016 4:47:53 PM OFFLINE
+2/26/2016 4:48:11 PM Login Success 1001 / Artiyah                                           
+2/26/2016 4:50:14 PM OFFLINE
+2/26/2016 4:52:28 PM OFFLINE
+2/26/2016 4:52:32 PM Login Success 1001 / Artiyah                                           

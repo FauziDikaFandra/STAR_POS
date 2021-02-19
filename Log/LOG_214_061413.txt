@@ -1,0 +1,15 @@
+6/14/2013 6:59:22 PM OpenKoneksi Login failed for user 'sa'. -2147217843
+6/14/2013 7:01:11 PM OpenKoneksi Cannot open database "POS_LOCAL" requested by the login. The login failed. -2147467259
+6/14/2013 7:04:44 PM frmSOD SOD Could not find stored procedure 'spp_BackupLocalTable'. -2147217900
+6/14/2013 7:11:38 PM frmSOD SOD Could not find stored procedure 'spp_BackupLocalTable'. -2147217900
+6/14/2013 7:50:45 PM frmSOD SOD Could not find stored procedure 'spp_BackupLocalTable'. -2147217900
+6/14/2013 7:52:52 PM Login Success 1313 / Deddy          
+6/14/2013 7:54:59 PM Login Success 1313 / Deddy          
+6/14/2013 7:57:32 PM Login Success 1313 / Deddy          
+6/14/2013 7:57:58 PM Login Success 1313 / Deddy          
+6/14/2013 7:58:23 PM Login Success 1313 / Deddy          
+6/14/2013 7:58:45 PM Login Success 1313 / Deddy          
+6/14/2013 8:00:09 PM Login Success 1313 / Deddy          
+6/14/2013 8:00:24 PM frmPayment Upload_to_Server Login failed for user 'sa'. -2147217900
+6/14/2013 8:01:01 PM Login Success 1313 / Deddy          
+6/14/2013 8:03:08 PM Login Success 1313 / Deddy          

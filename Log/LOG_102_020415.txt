@@ -1,0 +1,32 @@
+2/4/2015 12:59:32 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+2/4/2015 1:00:11 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+2/4/2015 1:00:33 PM OpenKoneksi Login failed for user 'sa'. -2147217843
+2/4/2015 1:01:26 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+2/4/2015 1:01:32 PM Login Success 1001 / Artiyah        
+2/4/2015 1:05:35 PM Login Success 1001 / Artiyah        
+2/4/2015 1:07:17 PM Login Success 1001 / Artiyah        
+2/4/2015 1:07:50 PM Login Success 1001 / Artiyah        
+2/4/2015 1:08:51 PM Login Success 1001 / Artiyah        
+2/4/2015 1:12:39 PM Login Success 1001 / Artiyah        
+2/4/2015 1:13:46 PM Login Success 1001 / Artiyah        
+2/4/2015 1:16:29 PM Login Success 1001 / Artiyah        
+2/4/2015 1:33:26 PM Login Success 1001 / Artiyah        
+2/4/2015 4:44:50 PM Login Success 1001 / Artiyah        
+2/4/2015 4:46:01 PM Verifikasi Success -2 1001 / Artiyah        
+2/4/2015 4:46:04 PM Download Promo 1001 / Artiyah        
+2/4/2015 4:48:35 PM Verifikasi Success -2 1001 / Artiyah        
+2/4/2015 4:48:36 PM Download Promo 1001 / Artiyah        
+2/4/2015 6:01:57 PM Login Success 1001 / Artiyah        
+2/4/2015 6:03:11 PM Login Success 1001 / Artiyah        
+2/4/2015 6:03:34 PM Login Success 1001 / Artiyah        
+2/4/2015 6:04:10 PM DH112345678 - KARTU BARU
+2/4/2015 6:04:10 PM DH112345678 - TIDAK16
+2/4/2015 6:05:35 PM Login Success 1001 / Artiyah        
+2/4/2015 6:06:00 PM DHs12345678 - KARTU BARU
+2/4/2015 6:06:00 PM DHs12345678 - TIDAK16
+2/4/2015 6:06:31 PM 123456 - KARTU BARU
+2/4/2015 6:06:31 PM 123456 - TIDAK16
+2/4/2015 6:06:43 PM 123456 - KARTU BARU
+2/4/2015 6:06:43 PM 123456 - TIDAK16
+2/4/2015 6:07:23 PM 123456789012345 - KARTU BARU
+2/4/2015 6:07:23 PM 123456789012345 - TIDAK16

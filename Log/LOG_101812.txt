@@ -1,0 +1,65 @@
+10/18/2012 8:34:37 AM Login Success 1313 / Deddy          
+10/18/2012 8:42:51 AM Login Success 1313 / Deddy          
+10/18/2012 8:44:28 AM Login Success 1313 / Deddy          
+10/18/2012 8:44:55 AM Login Success 1313 / Deddy          
+10/18/2012 8:47:33 AM Login Success 1313 / Deddy          
+10/18/2012 8:47:59 AM Login Success 1313 / Deddy          
+10/18/2012 8:48:46 AM Login Success 1313 / Deddy          
+10/18/2012 8:50:23 AM Login Success 1313 / Deddy          
+10/18/2012 8:50:56 AM Login Success 1313 / Deddy          
+10/18/2012 8:53:09 AM Login Success 1313 / Deddy          
+10/18/2012 2:04:45 PM Login Success 1313 / Deddy          
+10/18/2012 2:07:39 PM Login Success 1313 / Deddy          
+10/18/2012 3:05:08 PM Login Success 1313 / Deddy          
+10/18/2012 3:05:49 PM Login Success 1313 / Deddy          
+10/18/2012 3:18:30 PM Login Success 1313 / Deddy          
+10/18/2012 3:20:05 PM Login Success 1313 / Deddy          
+10/18/2012 3:33:39 PM Login Success 1313 / Deddy          
+10/18/2012 3:34:43 PM Login Success 1313 / Deddy          
+10/18/2012 9:08:47 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+10/18/2012 9:09:10 PM OFFLINE
+10/18/2012 9:09:16 PM Login Success 1313 / Deddy                                             
+10/18/2012 9:10:07 PM OFFLINE
+10/18/2012 9:10:27 PM OFFLINE
+10/18/2012 9:10:30 PM Login Success 1313 / Deddy                                             
+10/18/2012 9:12:36 PM OFFLINE
+10/18/2012 9:13:41 PM OFFLINE
+10/18/2012 9:13:45 PM Login Success 1313 / Deddy                                             
+10/18/2012 9:14:02 PM OFFLINE
+10/18/2012 9:14:05 PM Login Success 1313 / Deddy                                             
+10/18/2012 9:17:15 PM OFFLINE
+10/18/2012 9:17:17 PM Login Success 1313 / Deddy                                             
+10/18/2012 9:17:54 PM OFFLINE
+10/18/2012 9:17:58 PM Login Success 1313 / Deddy                                             
+10/18/2012 9:18:03 PM OFFLINE
+10/18/2012 9:18:06 PM Login Success 1313 / Deddy                                             
+10/18/2012 9:18:53 PM 1 - KARTU BARU
+10/18/2012 9:19:44 PM Verifikasi Success -2 1313 / Deddy                                             
+10/18/2012 9:19:55 PM Verifikasi Success -2 1313 / Deddy                                             
+10/18/2012 9:19:55 PM Close Shift 1313 / Deddy                                             
+10/18/2012 9:19:59 PM Login Success 1313 / Deddy                                             
+10/18/2012 9:20:12 PM Verifikasi Success -2 1313 / Deddy                                             
+10/18/2012 9:20:12 PM Close Shift 1313 / Deddy                                             
+10/18/2012 9:20:19 PM Login Success 1313 / Deddy                                             
+10/18/2012 9:20:25 PM Verifikasi Success -2 1313 / Deddy                                             
+10/18/2012 9:21:10 PM OFFLINE
+10/18/2012 9:28:20 PM OFFLINE
+10/18/2012 9:48:12 PM OFFLINE
+10/18/2012 9:49:31 PM OFFLINE
+10/18/2012 9:50:17 PM OFFLINE
+10/18/2012 9:51:15 PM OFFLINE
+10/18/2012 9:51:45 PM frmSplash Isi_Parameter OLE DB provider "SQLNCLI10" for linked server "192.168.1.53" returned message "Login timeout expired". -2147217900
+10/18/2012 9:52:08 PM frmSplash Isi_Parameter OLE DB provider "SQLNCLI10" for linked server "192.168.1.53" returned message "Login timeout expired". -2147217900
+10/18/2012 11:09:49 PM Login Success 1313 / Deddy          
+10/18/2012 11:10:29 PM Verifikasi Success -2 1313 / Deddy          
+10/18/2012 11:11:16 PM Login Success 1313 / Deddy          
+10/18/2012 11:11:23 PM Verifikasi Success -2 1313 / Deddy          
+10/18/2012 11:12:53 PM Login Success 1313 / Deddy          
+10/18/2012 11:12:59 PM Verifikasi Success -2 1313 / Deddy          
+10/18/2012 11:12:59 PM Close Register 1313 / Deddy          
+10/18/2012 11:27:53 PM Login Success 1313 / Deddy          
+10/18/2012 11:31:19 PM Login Success 1313 / Deddy          
+10/18/2012 11:37:35 PM Login Success 1313 / Deddy          
+10/18/2012 11:37:59 PM Login Success 1313 / Deddy          
+10/18/2012 11:38:28 PM Login Success 1313 / Deddy          
+10/18/2012 11:44:10 PM Login Success 1313 / Deddy          

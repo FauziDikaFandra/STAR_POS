@@ -1,0 +1,18 @@
+1/10/2013 2:08:36 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900
+1/10/2013 2:09:39 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900
+1/10/2013 2:10:04 PM Login Success 1313 / Deddy          
+1/10/2013 2:11:17 PM frmSOD EOD Invalid object name 'promo_sales'. -2147217865
+1/10/2013 2:12:07 PM Login Success 1313 / Deddy          
+1/10/2013 2:12:10 PM frmSOD EOD Invalid column name 'Status'. -2147217900
+1/10/2013 2:12:43 PM Login Success 1313 / Deddy          
+1/10/2013 2:13:00 PM Login Success 1313 / Deddy          
+1/10/2013 2:13:45 PM Login Success 1313 / Deddy          
+1/10/2013 2:15:03 PM Login Success 1313 / Deddy          
+1/10/2013 5:01:09 PM OFFLINE
+1/10/2013 5:04:47 PM OFFLINE
+1/10/2013 5:09:20 PM OFFLINE
+1/10/2013 5:19:16 PM OFFLINE
+1/10/2013 5:19:44 PM OFFLINE
+1/10/2013 5:20:58 PM OFFLINE
+1/10/2013 5:21:58 PM OFFLINE
+1/10/2013 5:22:09 PM OFFLINE

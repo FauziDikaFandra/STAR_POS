@@ -1,0 +1,18 @@
+8/26/2015 10:57:43 AM OFFLINE
+8/26/2015 10:57:43 AM Login Success 1001 / Artiyah        
+8/26/2015 10:59:09 AM Login Success 1001 / Artiyah        
+8/26/2015 11:01:53 AM Login Success 1001 / Artiyah        
+8/26/2015 11:26:27 AM Login Success 1001 / Artiyah        
+8/26/2015 11:45:17 AM OFFLINE
+8/26/2015 4:00:48 PM Login Success 1001 / Artiyah        
+8/26/2015 4:00:49 PM SQLQuery insert into cash(Branch_ID, Datetime, Cash_Register_ID, Shift, User_ID, Modal, Cash, Voucher , Other_Voucher, Credit_Card, Debet_Card, Credit_Sales, Entertainment, Deposit , Other_Income, Netto, Discount, Tax, [Returns], No_Sale, Cancel) values ('S002',  convert(varchar(10),getdate(),20), '110', '1', '1001', 250000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)  Violation of PRIMARY KEY constraint 'pk_cash'. Cannot insert duplicate key in object 'dbo.Cash'. The duplicate key value is (S002, Aug 26 2015 12:00AM, 110, 1). -2147217873
+8/26/2015 4:06:26 PM Login Success 1001 / Artiyah        
+8/26/2015 4:06:31 PM SQLQuery insert into cash(Branch_ID, Datetime, Cash_Register_ID, Shift, User_ID, Modal, Cash, Voucher , Other_Voucher, Credit_Card, Debet_Card, Credit_Sales, Entertainment, Deposit , Other_Income, Netto, Discount, Tax, [Returns], No_Sale, Cancel) values ('S002',  convert(varchar(10),getdate(),20), '110', '1', '1001', 250000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)  Violation of PRIMARY KEY constraint 'pk_cash'. Cannot insert duplicate key in object 'dbo.Cash'. The duplicate key value is (S002, Aug 26 2015 12:00AM, 110, 1). -2147217873
+8/26/2015 4:07:26 PM Login Success 1001 / Artiyah        
+8/26/2015 4:07:32 PM SQLQuery insert into cash(Branch_ID, Datetime, Cash_Register_ID, Shift, User_ID, Modal, Cash, Voucher , Other_Voucher, Credit_Card, Debet_Card, Credit_Sales, Entertainment, Deposit , Other_Income, Netto, Discount, Tax, [Returns], No_Sale, Cancel) values ('S002',  convert(varchar(10),getdate(),20), '110', '1', '1001', 250000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)  Violation of PRIMARY KEY constraint 'pk_cash'. Cannot insert duplicate key in object 'dbo.Cash'. The duplicate key value is (S002, Aug 26 2015 12:00AM, 110, 1). -2147217873
+8/26/2015 4:11:34 PM OFFLINE
+8/26/2015 4:19:39 PM Login Success 1001 / Artiyah        
+8/26/2015 4:19:42 PM SQLQuery insert into cash(Branch_ID, Datetime, Cash_Register_ID, Shift, User_ID, Modal, Cash, Voucher , Other_Voucher, Credit_Card, Debet_Card, Credit_Sales, Entertainment, Deposit , Other_Income, Netto, Discount, Tax, [Returns], No_Sale, Cancel) values ('S002',  convert(varchar(10),getdate(),20), '110', '1', '1001', 250000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)  Violation of PRIMARY KEY constraint 'pk_cash'. Cannot insert duplicate key in object 'dbo.Cash'. The duplicate key value is (S002, Aug 26 2015 12:00AM, 110, 1). -2147217873
+8/26/2015 4:42:47 PM GetSrvDate [DBNETLIB][ConnectionWrite (send()).]General network error. Check your network documentation. -2147467259
+8/26/2015 4:49:21 PM GetSrvDate Connection failure -2147467259
+8/26/2015 5:05:05 PM GetSrvDate Connection failure -2147467259

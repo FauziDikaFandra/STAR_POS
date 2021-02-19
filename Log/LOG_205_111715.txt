@@ -1,0 +1,18 @@
+11/17/2015 11:14:15 AM OpenKoneksi Login timeout expired -2147467259
+11/17/2015 11:15:25 AM Login Success 1001 / Artiyah        
+11/17/2015 11:24:24 AM Verifikasi Success -2 1001 / Artiyah        
+11/17/2015 11:24:26 AM Close Shift 1001 / Artiyah        
+11/17/2015 11:27:21 AM Login Success 1001 / Artiyah        
+11/17/2015 11:27:33 AM Verifikasi Success -2 1001 / Artiyah        
+11/17/2015 11:27:34 AM Download Promo 1001 / Artiyah        
+11/17/2015 11:29:04 AM Verifikasi Success -2 1001 / Artiyah        
+11/17/2015 11:29:05 AM Download Promo 1001 / Artiyah        
+11/17/2015 11:29:30 AM Verifikasi Success -2 1001 / Artiyah        
+11/17/2015 11:29:30 AM Download Promo 1001 / Artiyah        
+11/17/2015 11:31:01 AM Verifikasi Success -2 1001 / Artiyah        
+11/17/2015 11:31:01 AM Download Promo 1001 / Artiyah        
+11/17/2015 1:34:43 PM Login Success 1001 / Artiyah        
+11/17/2015 2:06:31 PM Login Success 1001 / Artiyah        
+11/17/2015 2:07:34 PM Login Success 1001 / Artiyah        
+11/17/2015 2:18:07 PM Verifikasi Success -2 1001 / Artiyah        
+11/17/2015 2:18:09 PM Cancel Transaction S002205-17112015-0007 1001 / Artiyah        

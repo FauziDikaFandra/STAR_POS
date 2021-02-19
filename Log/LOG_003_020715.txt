@@ -1,0 +1,8 @@
+2/7/2015 4:51:56 PM Login Success 1001 / Artiyah        
+2/7/2015 4:53:28 PM OpenKoneksi Cannot open database "POS_SERVER_SMS1" requested by the login. The login failed. -2147467259
+2/7/2015 4:54:43 PM OFFLINE
+2/7/2015 4:55:02 PM Login Success 1001 / Amelia Y                                          
+2/7/2015 4:56:16 PM OFFLINE
+2/7/2015 4:56:19 PM Login Success 1001 / Amelia Y                                          
+2/7/2015 4:56:35 PM Verifikasi Success -2 1001 / Amelia Y                                          
+2/7/2015 4:56:36 PM Close Shift 1001 / Amelia Y                                          

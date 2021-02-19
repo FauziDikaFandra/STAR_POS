@@ -1,0 +1,7 @@
+3/18/2014 5:53:35 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900
+3/18/2014 5:54:04 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900
+3/18/2014 5:54:28 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900
+3/18/2014 5:57:46 PM Login Success 1313 / Deddy          
+3/18/2014 6:02:12 PM Verifikasi Success -2 1313 / Deddy          
+3/18/2014 6:02:12 PM Download Promo 1313 / Deddy          
+3/18/2014 6:04:05 PM Login Success 1313 / Deddy          

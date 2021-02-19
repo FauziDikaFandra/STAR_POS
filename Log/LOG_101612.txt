@@ -1,0 +1,129 @@
+10/16/2012 8:49:46 AM Login Success 1313 / Deddy          
+10/16/2012 8:55:59 AM Login Success 1313 / Deddy          
+10/16/2012 9:05:20 AM OFFLINE
+10/16/2012 9:39:55 AM OpenKoneksi Cannot open database "POS_LOCAL_TEST" requested by the login. The login failed. -2147467259
+10/16/2012 9:40:38 AM Login Success 1313 / Deddy          
+10/16/2012 9:41:19 AM Login Success 1313 / Deddy          
+10/16/2012 9:42:09 AM Login Success 1313 / Deddy          
+10/16/2012 10:14:21 AM Login Success 1313 / Deddy          
+10/16/2012 10:14:42 AM Login Success 1313 / Deddy          
+10/16/2012 10:20:57 AM Login Success 1313 / Deddy          
+10/16/2012 10:34:39 AM Login Success 1313 / Deddy          
+10/16/2012 10:34:41 AM frmSOD EOD Incorrect syntax near '[192.168.1.23]'. -2147217900
+10/16/2012 10:34:59 AM Login Success 1313 / Deddy          
+10/16/2012 10:37:32 AM Login Success 1313 / Deddy          
+10/16/2012 10:37:34 AM frmSOD EOD The statement has been terminated. -2147217873
+10/16/2012 10:37:52 AM Login Success 1313 / Deddy          
+10/16/2012 10:38:08 AM Login Success 1313 / Deddy          
+10/16/2012 10:39:36 AM Login Success 1313 / Deddy          
+10/16/2012 10:40:21 AM Login Success 1313 / Deddy          
+10/16/2012 10:50:43 AM Login Success 1313 / Deddy          
+10/16/2012 10:57:37 AM Login Success 1313 / Deddy          
+10/16/2012 10:59:39 AM Login Success 1313 / Deddy          
+10/16/2012 11:03:28 AM Login Success 1313 / Deddy          
+10/16/2012 11:03:34 AM Verifikasi Success -2 1313 / Deddy          
+10/16/2012 11:04:25 AM Login Success 1313 / Deddy          
+10/16/2012 11:04:40 AM Login Success 1313 / Deddy          
+10/16/2012 11:05:37 AM Login Success 1313 / Deddy          
+10/16/2012 11:05:44 AM Login Success 1313 / Deddy          
+10/16/2012 11:29:18 AM Login Success 1313 / Deddy          
+10/16/2012 11:29:20 AM frmSOD EOD Transaction context in use by another session. -2147217900
+10/16/2012 11:29:34 AM Login Success 1313 / Deddy          
+10/16/2012 11:30:33 AM Login Success 1313 / Deddy          
+10/16/2012 11:33:19 AM Login Success 1313 / Deddy          
+10/16/2012 11:33:41 AM Login Success 1313 / Deddy          
+10/16/2012 11:36:05 AM Login Success 1313 / Deddy          
+10/16/2012 11:37:44 AM Login Success 1313 / Deddy          
+10/16/2012 11:37:54 AM Login Success 1313 / Deddy          
+10/16/2012 12:53:31 PM OpenKoneksi Cannot open database "POS_SERVER" requested by the login. The login failed. -2147467259
+10/16/2012 1:08:16 PM frmSplash Isi_Parameter Could not find server '192.168.1.206' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:08:18 PM frmSOD SOD Could not find server '192.168.1.206' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:09:21 PM frmSplash Isi_Parameter Could not find server '192.168.1.206' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:09:44 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900
+10/16/2012 1:16:16 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900
+10/16/2012 1:18:59 PM Login Success 1313 / Deddy          
+10/16/2012 1:21:50 PM Login Success 1313 / Deddy          
+10/16/2012 1:21:59 PM Login Success 1313 / Deddy          
+10/16/2012 1:22:39 PM Login Success 1313 / Deddy          
+10/16/2012 1:30:31 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:30:50 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:31:06 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:32:46 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:35:28 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:36:32 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:36:39 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:37:11 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:37:53 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:39:49 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:40:12 PM Login Success 1313 / Deddy          
+10/16/2012 1:40:26 PM Login Success 1313 / Deddy          
+10/16/2012 1:40:54 PM frmSOD SOD Could not find server '192.168.1.53' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 1:40:56 PM Login Success 1313 / Deddy          
+10/16/2012 1:41:14 PM Login Success 1313 / Deddy          
+10/16/2012 2:08:50 PM Login Success 1313 / Deddy          
+10/16/2012 2:09:18 PM Login Success 1313 / Deddy          
+10/16/2012 2:09:53 PM frmPayment Upload_to_Server Could not find server '192.168.1.206' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers. -2147217900
+10/16/2012 2:15:41 PM Login Success 1313 / Deddy          
+10/16/2012 2:15:54 PM frmPayment Simpan_Detail No transaction is active. -2147168242
+10/16/2012 2:16:21 PM Login Success 1313 / Deddy          
+10/16/2012 2:16:33 PM frmPayment Simpan_Detail Incorrect syntax near '192.168'. -2147217900
+10/16/2012 2:17:14 PM Login Success 1313 / Deddy          
+10/16/2012 2:17:29 PM frmPayment Simpan_Detail MSDTC on server 'HO_IT01' is unavailable. -2147217900
+10/16/2012 2:18:31 PM frmPayment Simpan_Detail Cannot start more transactions on this session. -2147168237
+10/16/2012 2:21:43 PM Login Success 1313 / Deddy          
+10/16/2012 2:22:11 PM Login Success 1313 / Deddy          
+10/16/2012 2:22:27 PM frmPayment Simpan_Detail MSDTC on server 'HO_IT01' is unavailable. -2147217900
+10/16/2012 2:22:45 PM Login Success 1313 / Deddy          
+10/16/2012 2:23:44 PM Login Success 1313 / Deddy          
+10/16/2012 2:24:03 PM frmPayment Simpan_Detail OLE DB provider "SQLNCLI" for linked server "192.168.1.53" returned message "The partner transaction manager has disabled its support for remote/network transactions.". -2147217900
+10/16/2012 2:24:23 PM Login Success 1313 / Deddy          
+10/16/2012 2:28:00 PM Login Success 1313 / Deddy          
+10/16/2012 2:31:57 PM OFFLINE
+10/16/2012 2:31:58 PM OFFLINE
+10/16/2012 2:31:59 PM OFFLINE
+10/16/2012 2:32:00 PM OFFLINE
+10/16/2012 2:32:01 PM OFFLINE
+10/16/2012 2:32:02 PM OFFLINE
+10/16/2012 2:32:03 PM OFFLINE
+10/16/2012 2:32:04 PM OFFLINE
+10/16/2012 2:32:04 PM Login Success 1313 / Deddy                                             
+10/16/2012 2:32:05 PM OFFLINE
+10/16/2012 2:32:11 PM OFFLINE
+10/16/2012 2:32:12 PM OFFLINE
+10/16/2012 2:32:19 PM OFFLINE
+10/16/2012 2:32:20 PM OFFLINE
+10/16/2012 2:32:21 PM OFFLINE
+10/16/2012 2:32:25 PM OFFLINE
+10/16/2012 2:32:34 PM OFFLINE
+10/16/2012 2:32:57 PM GetSrvDate The connection cannot be used to perform this operation. It is either closed or invalid in this context. 3709
+10/16/2012 2:32:58 PM GetSrvDate The connection cannot be used to perform this operation. It is either closed or invalid in this context. 3709
+10/16/2012 2:34:09 PM GetSrvDate The connection cannot be used to perform this operation. It is either closed or invalid in this context. 3709
+10/16/2012 2:34:37 PM Login Success 1313 / Deddy          
+10/16/2012 2:38:54 PM Login Success 1313 / Deddy          
+10/16/2012 2:39:16 PM Login Success 1313 / Deddy          
+10/16/2012 2:41:35 PM Login Success 1313 / Deddy          
+10/16/2012 9:58:55 PM Login Success 1313 / Deddy          
+10/16/2012 10:01:24 PM Login Success 1313 / Deddy          
+10/16/2012 10:06:35 PM Login Success 1313 / Deddy          
+10/16/2012 10:07:36 PM Login Success 1313 / Deddy          
+10/16/2012 10:08:48 PM Login Success 1313 / Deddy          
+10/16/2012 10:10:15 PM Login Success 1313 / Deddy          
+10/16/2012 10:15:27 PM Login Success 1313 / Deddy          
+10/16/2012 10:15:38 PM Login Success 1313 / Deddy          
+10/16/2012 10:17:59 PM Login Success 1313 / Deddy          
+10/16/2012 10:20:08 PM Login Success 1313 / Deddy          
+10/16/2012 10:35:40 PM Login Success 1313 / Deddy          
+10/16/2012 10:36:05 PM Login Success 1313 / Deddy          
+10/16/2012 10:40:05 PM Login Success 1313 / Deddy          
+10/16/2012 10:40:15 PM Verifikasi Success -2 1313 / Deddy          
+10/16/2012 10:41:08 PM Login Success 1313 / Deddy          
+10/16/2012 10:50:40 PM Login Success 1313 / Deddy          
+10/16/2012 10:57:26 PM Login Success 1313 / Deddy          
+10/16/2012 11:04:07 PM Login Success 1313 / Deddy          
+10/16/2012 11:05:20 PM Login Success 1313 / Deddy          
+10/16/2012 11:06:15 PM Login Success 1313 / Deddy          
+10/16/2012 11:13:16 PM Login Success 1313 / Deddy          
+10/16/2012 11:14:37 PM Verifikasi Success -2 1313 / Deddy          
+10/16/2012 11:14:56 PM Verifikasi Success -2 1313 / Deddy          
+10/16/2012 11:19:26 PM Login Success 1313 / Deddy          
+10/16/2012 11:26:57 PM Login Success 1313 / Deddy          

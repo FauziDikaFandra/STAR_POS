@@ -1,0 +1,14 @@
+2/12/2015 10:55:24 AM Login Success 1001 / Artiyah        
+2/12/2015 10:55:29 AM Verifikasi Success -2 1001 / Artiyah        
+2/12/2015 10:55:31 AM Download Promo 1001 / Artiyah        
+2/12/2015 11:03:09 AM Verifikasi Success -1 1001 / Artiyah        
+2/12/2015 11:03:09 AM Refund Transaction 1001 / Artiyah        
+2/12/2015 11:03:28 AM Verifikasi Success -1 1001 / Artiyah        
+2/12/2015 11:03:28 AM Refund Transaction 1001 / Artiyah        
+2/12/2015 11:05:23 AM Verifikasi Success -1 1001 / Artiyah        
+2/12/2015 11:05:24 AM Refund Transaction 1001 / Artiyah        
+2/12/2015 11:12:42 AM Login Success 1001 / Artiyah        
+2/12/2015 11:12:46 AM Verifikasi Success -2 1001 / Artiyah        
+2/12/2015 11:12:47 AM Download Promo 1001 / Artiyah        
+2/12/2015 11:43:55 AM Login Success 1001 / Artiyah        
+2/12/2015 11:53:42 AM Login Success 1001 / Artiyah        

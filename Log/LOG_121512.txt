@@ -1,0 +1,35 @@
+12/15/2012 4:53:45 PM Login Success 1313 / Deddy          
+12/15/2012 4:53:56 PM Verifikasi Success -1 1313 / Deddy          
+12/15/2012 4:53:56 PM Refund Transaction 1313 / Deddy          
+12/15/2012 4:55:23 PM Login Success 1313 / Deddy          
+12/15/2012 4:57:19 PM Login Success 1313 / Deddy          
+12/15/2012 4:58:47 PM Login Success 1313 / Deddy          
+12/15/2012 5:01:23 PM Login Success 1313 / Deddy          
+12/15/2012 5:02:17 PM Verifikasi Success -1 1313 / Deddy          
+12/15/2012 5:02:17 PM Refund Transaction 1313 / Deddy          
+12/15/2012 5:03:18 PM Login Success 1313 / Deddy          
+12/15/2012 5:03:22 PM Verifikasi Success -1 1313 / Deddy          
+12/15/2012 5:03:22 PM Refund Transaction 1313 / Deddy          
+12/15/2012 5:03:39 PM 1232 - KARTU BARU
+12/15/2012 5:07:14 PM Login Success 1313 / Deddy          
+12/15/2012 5:08:50 PM 123 - KARTU BARU
+12/15/2012 5:09:51 PM Login Success 1313 / Deddy          
+12/15/2012 5:09:56 PM Verifikasi Success -1 1313 / Deddy          
+12/15/2012 5:09:56 PM Refund Transaction 1313 / Deddy          
+12/15/2012 5:11:27 PM Login Success 1313 / Deddy          
+12/15/2012 5:11:33 PM Verifikasi Success -1 1313 / Deddy          
+12/15/2012 5:11:33 PM Refund Transaction 1313 / Deddy          
+12/15/2012 5:14:26 PM Login Success 1313 / Deddy          
+12/15/2012 5:15:00 PM Verifikasi Success -1 1313 / Deddy          
+12/15/2012 5:15:00 PM Refund Transaction 1313 / Deddy          
+12/15/2012 5:15:36 PM Login Success 1313 / Deddy          
+12/15/2012 5:15:41 PM Verifikasi Success -1 1313 / Deddy          
+12/15/2012 5:15:41 PM Refund Transaction 1313 / Deddy          
+12/15/2012 5:16:18 PM Login Success 1313 / Deddy          
+12/15/2012 5:18:06 PM Verifikasi Success -1 1313 / Deddy          
+12/15/2012 5:18:06 PM Refund Transaction 1313 / Deddy          
+12/15/2012 5:18:22 PM 123 - KARTU BARU
+12/15/2012 5:20:35 PM Login Success 1313 / Deddy          
+12/15/2012 5:20:39 PM Verifikasi Success -1 1313 / Deddy          
+12/15/2012 5:20:39 PM Refund Transaction 1313 / Deddy          
+12/15/2012 5:21:01 PM 123 - KARTU BARU

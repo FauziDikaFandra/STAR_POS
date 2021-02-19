@@ -1,0 +1,8 @@
+1/3/2013 8:56:05 AM OFFLINE
+1/3/2013 8:56:11 AM Login Success 1313 / Deddy                                             
+1/3/2013 8:56:22 AM Verifikasi Success -2 1313 / Deddy                                             
+1/3/2013 8:57:05 AM OFFLINE
+1/3/2013 8:57:09 AM Login Success 1313 / Deddy                                             
+1/3/2013 8:57:23 AM Verifikasi Success -2 1313 / Deddy                                             
+1/3/2013 9:02:37 AM OFFLINE
+1/3/2013 9:09:28 AM Login Success 1313 / Deddy                                             

@@ -1,0 +1,8 @@
+12/5/2012 9:54:59 AM Login Success 1313 / Deddy          
+12/5/2012 9:58:07 AM Login Success 1313 / Deddy          
+12/5/2012 11:21:10 AM GetSrvDate The connection cannot be used to perform this operation. It is either closed or invalid in this context. 3709
+12/5/2012 11:21:23 AM GetSrvDate The connection cannot be used to perform this operation. It is either closed or invalid in this context. 3709
+12/5/2012 4:02:24 PM Login Success 1313 / Deddy          
+12/5/2012 4:03:10 PM Verifikasi Success -2 1313 / Deddy          
+12/5/2012 4:03:59 PM frmPayment Cek Lunas Either BOF or EOF is True, or the current record has been deleted. Requested operation requires a current record. 3021
+12/5/2012 4:04:09 PM Login Success 1313 / Deddy          

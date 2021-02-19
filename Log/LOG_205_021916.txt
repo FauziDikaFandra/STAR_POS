@@ -1,0 +1,26 @@
+2/19/2016 1:44:13 PM Login Success 1001 / Artiyah        
+2/19/2016 2:01:33 PM Login Success 1001 / Artiyah        
+2/19/2016 2:03:24 PM Login Success 1001 / Artiyah        
+2/19/2016 2:11:35 PM Login Success 1001 / Artiyah        
+2/19/2016 2:25:48 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01190, CPN002). -2147217873
+2/19/2016 2:26:24 PM Login Success 1001 / Artiyah        
+2/19/2016 2:26:41 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01190, CPN002). -2147217873
+2/19/2016 2:27:39 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01190, CPN002). -2147217873
+2/19/2016 2:27:45 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01190, CPN002). -2147217873
+2/19/2016 4:21:07 PM Login Success 1001 / Artiyah        
+2/19/2016 4:21:26 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01190, CPN002). -2147217873
+2/19/2016 4:22:32 PM Login Success 1001 / Artiyah        
+2/19/2016 4:22:53 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01190, CPN002). -2147217873
+2/19/2016 4:23:01 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01190, CPN002). -2147217873
+2/19/2016 4:23:03 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01190, CPN002). -2147217873
+2/19/2016 4:23:55 PM Login Success 1001 / Artiyah        
+2/19/2016 4:24:34 PM Login Success 1001 / Artiyah        
+2/19/2016 4:25:15 PM Login Success 1001 / Artiyah        
+2/19/2016 4:25:26 PM Login Success 1001 / Artiyah        
+2/19/2016 4:36:14 PM Login Success 1001 / Artiyah        
+2/19/2016 5:06:43 PM Login Success 1001 / Artiyah        
+2/19/2016 5:08:58 PM Login Success 1001 / Artiyah        
+2/19/2016 5:24:00 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01192, CPN002). -2147217873
+2/19/2016 5:38:41 PM Login Success 1001 / Artiyah        
+2/19/2016 5:41:33 PM Login Success 1001 / Artiyah        
+2/19/2016 5:42:38 PM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. The duplicate key value is (CM011-01190, CPN002). -2147217873

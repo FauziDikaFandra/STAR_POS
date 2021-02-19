@@ -1,0 +1,1 @@
+2/7/2015 4:45:21 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900

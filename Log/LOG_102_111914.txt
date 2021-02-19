@@ -1,0 +1,8 @@
+11/19/2014 6:01:44 PM Login Success 2001 / Ayu            
+11/19/2014 6:02:43 PM Hold Transaction S001102-19112014-0001 2001 / Ayu            
+11/19/2014 6:04:16 PM 3009405500006      - KARTU BARU
+11/19/2014 6:04:16 PM 3009405500006      - TIDAK16
+11/19/2014 6:05:37 PM Login Success 2001 / Ayu            
+11/19/2014 6:07:58 PM Login Success 2001 / Ayu            
+11/19/2014 6:08:48 PM Login Success 2001 / Ayu            
+11/19/2014 6:09:37 PM Hold Transaction S001102-19112014-0004 2001 / Ayu            

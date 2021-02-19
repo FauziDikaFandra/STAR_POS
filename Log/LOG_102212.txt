@@ -1,0 +1,41 @@
+10/22/2012 11:35:06 AM Login Success 1313 / Deddy          
+10/22/2012 4:43:24 PM Login Success 1313 / Deddy          
+10/22/2012 4:51:13 PM Verifikasi Success -2 1313 / Deddy          
+10/22/2012 5:01:42 PM Verifikasi Success -2 1313 / Deddy          
+10/22/2012 5:01:43 PM Cancel Transaction S002201-22102012-0034 1313 / Deddy          
+10/22/2012 9:18:44 PM Login Success 1313 / Deddy          
+10/22/2012 9:19:36 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+10/22/2012 9:19:51 PM Login Success 1313 / Deddy          
+10/22/2012 9:20:47 PM Login Success 1313 / Deddy          
+10/22/2012 9:21:26 PM Login Success 1313 / Deddy          
+10/22/2012 9:22:02 PM Login Success 1313 / Deddy          
+10/22/2012 9:22:25 PM Login Success 1313 / Deddy          
+10/22/2012 9:22:42 PM Login Success 1313 / Deddy          
+10/22/2012 9:23:31 PM Login Success 1313 / Deddy          
+10/22/2012 9:44:34 PM Login Success 1313 / Deddy          
+10/22/2012 9:45:46 PM Login Success 1313 / Deddy          
+10/22/2012 9:46:15 PM Login Success 1313 / Deddy          
+10/22/2012 9:46:47 PM Login Success 1313 / Deddy          
+10/22/2012 9:47:22 PM Login Success 1313 / Deddy          
+10/22/2012 9:47:47 PM Login Success 1313 / Deddy          
+10/22/2012 9:49:23 PM Login Success 1313 / Deddy          
+10/22/2012 9:50:47 PM Login Success 1313 / Deddy          
+10/22/2012 9:51:20 PM Login Success 1313 / Deddy          
+10/22/2012 9:51:39 PM Login Success 1313 / Deddy          
+10/22/2012 9:53:26 PM Login Success 1313 / Deddy          
+10/22/2012 9:53:53 PM Login Success 1313 / Deddy          
+10/22/2012 9:54:27 PM Login Success 1313 / Deddy          
+10/22/2012 9:56:42 PM Login Success 1313 / Deddy          
+10/22/2012 9:58:53 PM Login Success 1313 / Deddy          
+10/22/2012 9:59:09 PM Verifikasi Success -1 1313 / Deddy          
+10/22/2012 9:59:58 PM Login Success 1313 / Deddy          
+10/22/2012 10:00:31 PM Login Success 1313 / Deddy          
+10/22/2012 10:01:06 PM Verifikasi Success -1 1313 / Deddy          
+10/22/2012 10:02:46 PM Login Success 1313 / Deddy          
+10/22/2012 10:03:14 PM Verifikasi Success -1 1313 / Deddy          
+10/22/2012 10:04:36 PM Login Success 1313 / Deddy          
+10/22/2012 10:04:50 PM Verifikasi Success -1 1313 / Deddy          
+10/22/2012 10:05:37 PM Login Success 1313 / Deddy          
+10/22/2012 10:06:01 PM Login Success 1313 / Deddy          
+10/22/2012 10:06:23 PM Login Success 1313 / Deddy          
+10/22/2012 10:09:08 PM Login Success 1313 / Deddy          

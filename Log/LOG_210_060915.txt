@@ -1,0 +1,27 @@
+6/9/2015 7:57:35 PM OFFLINE
+6/9/2015 7:57:41 PM Login Success 1001 / ajeng                                             
+6/9/2015 8:00:23 PM OFFLINE
+6/9/2015 8:00:26 PM Login Success 1001 / ajeng                                             
+6/9/2015 8:06:30 PM OFFLINE
+6/9/2015 8:06:33 PM Login Success 1001 / ajeng                                             
+6/9/2015 8:17:18 PM OpenKoneksi Login failed for user 'sa'. -2147217843
+6/9/2015 8:18:22 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900
+6/9/2015 8:19:58 PM Login Success 1001 / Artiyah        
+6/9/2015 8:24:13 PM Login Success 1001 / Artiyah        
+6/9/2015 8:25:08 PM OFFLINE
+6/9/2015 8:25:11 PM Login Success 1001 / Artiyah                                           
+6/9/2015 8:28:49 PM OFFLINE
+6/9/2015 8:29:07 PM Login Success 1001 / Artiyah        
+6/9/2015 8:36:56 PM OFFLINE
+6/9/2015 8:37:01 PM Login Success 1001 / Artiyah                                           
+6/9/2015 10:01:01 PM OFFLINE
+6/9/2015 10:01:07 PM Login Success 1001 / Artiyah                                           
+6/9/2015 10:01:29 PM OFFLINE
+6/9/2015 10:03:27 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+6/9/2015 10:03:38 PM OFFLINE
+6/9/2015 10:03:43 PM SQLQuery update branches set flag_sod=0 where Branch_ID = 'S002' AND cash_register_id='210' Invalid column name 'cash_register_id'. -2147217900
+6/9/2015 10:04:49 PM OFFLINE
+6/9/2015 10:06:25 PM OFFLINE
+6/9/2015 10:07:10 PM OFFLINE
+6/9/2015 10:11:58 PM Login Success 1001 / Artiyah        
+6/9/2015 10:12:07 PM Login Success 1001 / Artiyah        

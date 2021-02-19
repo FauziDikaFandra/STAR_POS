@@ -1,0 +1,11 @@
+11/20/2012 8:45:36 AM Login Success 1313 / Deddy          
+11/20/2012 8:46:01 AM Login Success 1313 / Deddy          
+11/20/2012 10:46:52 AM Login Success 1313 / Deddy          
+11/20/2012 4:17:26 PM Login Success 1313 / Deddy          
+11/20/2012 4:17:32 PM Verifikasi Success -2 1313 / Deddy          
+11/20/2012 4:17:33 PM Close Register 1313 / Deddy          
+11/20/2012 4:18:00 PM frmSplash Isi_Parameter Item cannot be found in the collection corresponding to the requested name or ordinal. 3265
+11/20/2012 4:18:44 PM Login Success 1313 / Deddy          
+11/20/2012 4:18:47 PM SQLQuery insert into cash(Branch_ID, Datetime, Cash_Register_ID, Shift, User_ID, Modal, Cash, Voucher , Other_Voucher, Credit_Card, Debet_Card, Credit_Sales, Entertainment, Deposit , Other_Income, Netto, Discount, Tax, [Returns], No_Sale, Cancel) values ('S002',  convert(varchar(10),getdate(),20), '105', '1', '1313', 250000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)  Violation of PRIMARY KEY constraint 'PK_Cash'. Cannot insert duplicate key in object 'dbo.Cash'. -2147217873
+11/20/2012 4:18:53 PM Verifikasi Success -2 1313 / Deddy          
+11/20/2012 4:18:53 PM Close Register 1313 / Deddy          

@@ -1,0 +1,94 @@
+10/10/2012 9:03:14 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:15:01 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:17:30 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:18:41 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:22:24 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:23:58 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:24:04 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:24:30 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan_Detail
+10/10/2012 9:26:17 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:27:01 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:27:31 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:27:34 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan Kartu Promo
+10/10/2012 9:27:36 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan Kartu Promo
+10/10/2012 9:27:36 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan Kartu Promo
+10/10/2012 9:27:37 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan Kartu Promo
+10/10/2012 9:28:01 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:29:12 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:30:28 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:30:58 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:31:13 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan Kartu Promo
+10/10/2012 9:31:58 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan Kartu Promo
+10/10/2012 9:32:53 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan Kartu Promo
+10/10/2012 9:33:00 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:33:07 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:46:13 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:46:36 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan Kartu Promo
+10/10/2012 9:47:09 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:47:16 AM frmCard Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 Simpan Kartu Promo
+10/10/2012 9:48:18 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:49:12 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:53:56 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:55:17 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:55:49 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:59:47 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:01:46 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:01:52 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:17:55 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:24:40 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:31:22 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:31:51 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:32:43 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:36:07 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:36:46 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:37:06 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:37:39 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:37:54 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:38:08 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:40:03 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:40:42 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:41:27 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:41:52 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:42:40 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:43:47 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:43:56 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:44:06 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:55:08 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:55:20 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 10:59:21 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:00:15 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:00:58 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:02:43 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:03:05 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:03:22 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:03:34 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:04:44 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:04:57 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:15:02 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:18:36 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:19:18 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 11:46:01 AM LOGIN SUCCESS 2511/Yudhi N        
+10/10/2012 9:49:22 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 9:58:28 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:19:33 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:19:57 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:20:22 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:20:39 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:21:01 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:21:24 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:22:23 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:22:47 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:23:50 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:25:18 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:25:51 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:27:34 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:28:15 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:29:12 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:31:05 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:31:43 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:41:15 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:46:43 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:57:02 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 10:57:25 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 11:10:55 PM LOGIN SUCCESS 1313/Deddy          
+10/10/2012 11:11:44 PM LOGIN SUCCESS 1313/Deddy          

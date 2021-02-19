@@ -1,0 +1,12 @@
+11/21/2012 1:13:43 PM Login Success 1313 / Deddy          
+11/21/2012 1:41:03 PM Login Success 1313 / Deddy          
+11/21/2012 1:41:52 PM Login Success 1313 / Deddy          
+11/21/2012 1:43:35 PM Login Success 1313 / Deddy          
+11/21/2012 1:46:16 PM Login Success 1313 / Deddy          
+11/21/2012 1:48:09 PM Login Success 1313 / Deddy          
+11/21/2012 1:57:31 PM Login Success 1313 / Deddy          
+11/21/2012 1:59:37 PM Verifikasi Success -1 1313 / Deddy          
+11/21/2012 1:59:47 PM Reprint Transaction S002105-21112012-0009 1313 / Deddy          
+11/21/2012 2:09:32 PM Login Success 1313 / Deddy          
+11/21/2012 2:09:41 PM Verifikasi Success -1 1313 / Deddy          
+11/21/2012 2:09:43 PM Reprint Transaction S002105-21112012-0008 1313 / Deddy          

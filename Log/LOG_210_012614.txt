@@ -1,0 +1,7 @@
+1/26/2014 12:15:41 PM OpenKoneksi Unspecified error -2147467259
+1/26/2014 12:16:07 PM OpenKoneksi Unspecified error -2147467259
+1/26/2014 12:17:15 PM OpenKoneksi Unspecified error -2147467259
+1/26/2014 12:19:20 PM frmSOD SOD Invalid column name 'rowguid'. -2147217900
+1/26/2014 12:20:44 PM Login Success 1313 / Deddy          
+1/26/2014 12:23:14 PM Login Success 1313 / Deddy          
+1/26/2014 12:25:26 PM Login Success 1313 / Deddy          

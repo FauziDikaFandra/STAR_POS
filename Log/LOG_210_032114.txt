@@ -1,0 +1,14 @@
+3/21/2014 2:00:01 PM Login Success 1313 / Deddy          
+3/21/2014 2:03:17 PM Login Success 1313 / Deddy          
+3/21/2014 2:05:29 PM Verifikasi Success -2 1313 / Deddy          
+3/21/2014 2:05:29 PM Download Promo 1313 / Deddy          
+3/21/2014 2:10:12 PM Login Success 1313 / Deddy          
+3/21/2014 2:14:09 PM Login Success 1313 / Deddy          
+3/21/2014 2:16:32 PM Login Success 1313 / Deddy          
+3/21/2014 4:29:32 PM Login Success 1313 / Deddy          
+3/21/2014 4:30:39 PM frmPayment Cek Lunas Error converting data type varchar to numeric. -2147217913
+3/21/2014 4:30:42 PM frmPayment Upload_to_Server Violation of PRIMARY KEY constraint 'PK_Sales_Transactions'. Cannot insert duplicate key in object 'dbo.Sales_Transactions'. -2147217873
+3/21/2014 4:39:22 PM Login Success 1313 / Deddy          
+3/21/2014 4:42:20 PM Login Success 1313 / Deddy          
+3/21/2014 4:42:31 PM frmPayment Cek Lunas Item cannot be found in the collection corresponding to the requested name or ordinal. 3265
+3/21/2014 4:43:28 PM Login Success 1313 / Deddy          

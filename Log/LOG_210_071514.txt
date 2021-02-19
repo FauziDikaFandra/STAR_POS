@@ -1,0 +1,12 @@
+7/15/2014 1:02:20 PM Login Success 2222 / Daus           
+7/15/2014 1:04:13 PM frmPayment Cetak Promo Overflow 6
+7/15/2014 1:04:42 PM Login Success 2222 / Daus           
+7/15/2014 1:05:23 PM Login Success 2222 / Daus           
+7/15/2014 1:06:19 PM frmPayment Cetak Promo Overflow 6
+7/15/2014 1:07:17 PM Login Success 2222 / Daus           
+7/15/2014 1:07:39 PM frmPayment Cek Lunas Overflow 6
+7/15/2014 1:08:08 PM Login Success 2222 / Daus           
+7/15/2014 1:10:19 PM Login Success 2222 / Daus           
+7/15/2014 1:14:26 PM frmPayment Cek Lunas Overflow 6
+7/15/2014 1:14:32 PM frmPayment Upload_to_Server Violation of PRIMARY KEY constraint 'PK_Sales_Transactions'. Cannot insert duplicate key in object 'dbo.Sales_Transactions'. The duplicate key value is (S001210-15072014-0007). -2147217873
+7/15/2014 5:44:45 PM Login Success 2222 / Daus           

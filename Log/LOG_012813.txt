@@ -1,0 +1,16 @@
+1/28/2013 1:42:28 PM OFFLINE
+1/28/2013 1:46:12 PM Login Success 1313 / Deddy                                             
+1/28/2013 1:48:26 PM OFFLINE
+1/28/2013 1:48:31 PM Login Success 1313 / Deddy                                             
+1/28/2013 1:49:53 PM OFFLINE
+1/28/2013 1:49:58 PM Login Success 1313 / Deddy                                             
+1/28/2013 2:00:09 PM OFFLINE
+1/28/2013 2:00:20 PM Login Success 1313 / Deddy                                             
+1/28/2013 2:05:27 PM OFFLINE
+1/28/2013 2:05:30 PM Login Success 1313 / Deddy                                             
+1/28/2013 2:09:24 PM OFFLINE
+1/28/2013 2:09:27 PM Login Success 1313 / Deddy                                             
+1/28/2013 2:09:43 PM frmPayment Paid_To_Sales Incorrect syntax near ':'. -2147217900
+1/28/2013 2:10:35 PM OFFLINE
+1/28/2013 2:11:05 PM Login Success 1313 / Deddy                                             
+1/28/2013 2:47:44 PM OFFLINE

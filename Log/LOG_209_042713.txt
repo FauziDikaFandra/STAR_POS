@@ -1,0 +1,8 @@
+4/27/2013 9:55:50 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+4/27/2013 9:58:10 PM Login Success 1313 / Deddy          
+4/27/2013 10:02:29 PM Login Success 1313 / Deddy          
+4/27/2013 10:05:29 PM Login Success 1313 / Deddy          
+4/27/2013 10:05:52 PM Login Success 1313 / Deddy          
+4/27/2013 10:09:19 PM Login Success 1313 / Deddy          
+4/27/2013 10:15:35 PM Login Success 1313 / Deddy          
+4/27/2013 10:16:27 PM Login Success 1313 / Deddy          

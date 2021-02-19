@@ -1,0 +1,3 @@
+12/16/2014 3:26:49 PM OpenKoneksi Cannot open database "POS_SERVER2" requested by the login. The login failed. -2147467259
+12/16/2014 3:27:07 PM OpenKoneksi Login failed for user 'sa'. -2147217843
+12/16/2014 3:27:43 PM Login Success 2001 / amry           

@@ -1,0 +1,9 @@
+2/5/2013 3:00:52 PM Login Success 1313 / Deddy          
+2/5/2013 3:07:18 PM Login Success 1313 / Deddy          
+2/5/2013 3:09:59 PM Validasi Kasir : 1313/Deddy          SPG : 2016/YOLANDA
+2/5/2013 3:11:49 PM Login Success 1313 / Deddy          
+2/5/2013 3:12:08 PM Validasi Kasir : 1313/Deddy          SPG : 2007/DWI
+2/5/2013 3:12:30 PM Validasi Kasir : 1313/Deddy          SPG : 2007/DWI
+2/5/2013 5:48:05 PM Login Success 1313 / Deddy          
+2/5/2013 5:59:45 PM Login Success 1313 / Deddy          
+2/5/2013 6:17:27 PM Login Success 1313 / Deddy          

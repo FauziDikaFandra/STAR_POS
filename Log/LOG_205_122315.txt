@@ -1,0 +1,5 @@
+12/23/2015 4:21:49 PM Login Success 1001 / Artiyah        
+12/23/2015 4:38:55 PM Login Success 1001 / Artiyah        
+12/23/2015 4:40:02 PM Login Success 1001 / Artiyah        
+12/23/2015 4:40:06 PM SQLQuery insert into cash(Branch_ID, Datetime, Cash_Register_ID, Shift, User_ID, Modal, Cash, Voucher , Other_Voucher, Credit_Card, Debet_Card, Credit_Sales, Entertainment, Deposit , Other_Income, Netto, Discount, Tax, [Returns], No_Sale, Cancel) values ('S002',  convert(varchar(10),getdate(),20), '205', '2', '1001', 250000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)  Violation of PRIMARY KEY constraint 'pk_cash'. Cannot insert duplicate key in object 'dbo.Cash'. The duplicate key value is (S002, Dec 23 2015 12:00AM, 205, 2). -2147217873
+12/23/2015 4:41:18 PM OpenKoneksi Login timeout expired -2147467259

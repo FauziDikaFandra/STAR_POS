@@ -1,0 +1,5 @@
+2/23/2016 4:31:49 PM Login Success 1001 / Artiyah        
+2/23/2016 4:45:13 PM Login Success 1001 / Artiyah        
+2/23/2016 4:46:29 PM Hold Transaction S002205-23022016-0001 1001 / Artiyah        
+2/23/2016 5:48:54 PM Login Success 1001 / Artiyah        
+2/23/2016 5:49:34 PM Hold Transaction S002205-23022016-0003 1001 / Artiyah        

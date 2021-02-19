@@ -1,0 +1,71 @@
+5/14/2013 2:57:53 PM Login Success 1313 / Deddy          
+5/14/2013 2:58:14 PM Login Success 1313 / Deddy          
+5/14/2013 2:59:18 PM Login Success 1313 / Deddy          
+5/14/2013 3:00:15 PM Login Success 1313 / Deddy          
+5/14/2013 3:02:32 PM Login Success 1313 / Deddy          
+5/14/2013 3:03:27 PM Login Success 1313 / Deddy          
+5/14/2013 3:03:34 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:03:34 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 3:04:50 PM Login Success 1313 / Deddy          
+5/14/2013 3:04:55 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:04:56 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 3:12:00 PM Login Success 1313 / Deddy          
+5/14/2013 3:12:11 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:12:12 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 3:12:52 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:12:53 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 3:15:40 PM Login Success 1313 / Deddy          
+5/14/2013 3:15:49 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:15:51 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 3:21:47 PM Login Success 1313 / Deddy          
+5/14/2013 3:21:53 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:21:53 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 3:29:28 PM Login Success 1313 / Deddy          
+5/14/2013 3:29:49 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:29:50 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 3:30:05 PM Login Success 1313 / Deddy          
+5/14/2013 3:30:19 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:30:20 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 3:39:39 PM Login Success 1313 / Deddy          
+5/14/2013 3:39:44 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:39:46 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 3:56:53 PM Login Success 1313 / Deddy          
+5/14/2013 3:56:58 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 3:57:00 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:04:11 PM Login Success 1313 / Deddy          
+5/14/2013 4:04:16 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 4:04:17 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:05:34 PM Login Success 1313 / Deddy          
+5/14/2013 4:05:39 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 4:05:40 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:06:11 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 4:06:11 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:06:32 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 4:06:32 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:13:13 PM Login Success 1313 / Deddy          
+5/14/2013 4:13:25 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 4:13:27 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:14:01 PM Login Success 1313 / Deddy          
+5/14/2013 4:14:08 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 4:14:09 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:14:37 PM Login Success 1313 / Deddy          
+5/14/2013 4:14:41 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 4:14:43 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:15:18 PM Login Success 1313 / Deddy          
+5/14/2013 4:15:22 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 4:15:23 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:18:43 PM Login Success 1313 / Deddy          
+5/14/2013 4:18:47 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 4:18:51 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 4:21:54 PM Login Success 1313 / Deddy          
+5/14/2013 4:22:00 PM Verifikasi Success -2 1313 / Deddy          
+5/14/2013 4:22:01 PM Close Shift 1313 / Deddy          
+5/14/2013 5:07:03 PM Login Success 1313 / Deddy          
+5/14/2013 5:10:00 PM Login Success 1313 / Deddy          
+5/14/2013 5:10:09 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 5:10:09 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          
+5/14/2013 5:12:16 PM Login Success 1313 / Deddy          
+5/14/2013 5:12:47 PM Login Success 1313 / Deddy          
+5/14/2013 5:29:33 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 5:29:39 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 5:29:40 PM Reprint Transaction S001209-14052013-0001 1313 / Deddy          

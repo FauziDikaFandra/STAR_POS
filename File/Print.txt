@@ -1,0 +1,13 @@
+chr(27) & chr(33) & chr(0) –> mencetak skala 10 cpi 
+chr(27) & chr(33) & chr(1) –> mencetak skala 12 cpi, 12 cpi akan lebih kecil dari pada 10 cpi. 
+chr(27) & chr(33) & chr(8) –> mencetak tebal
+Print #1, chr(27) & chr(33) & chr(0) –> membatalkan cetak tebal
+Print #1, chr(27) & chr(33) & chr(16) –> double strike (head printer akan bekerja secara bolak balik)
+Print #1, chr(27) & chr(33) & chr(0) –> cancel double strike
+Print #1, chr(27) & chr(33) & chr(32) –> font double width, biasanya digunakan untuk mencetak header.
+Print #1, chr(27) & chr(33) & chr(64) –> font italic (huruf miring)
+Print #1, chr(27) & chr(33) & chr(128) –> font underline
+Print #1, chr(27) & chr(97) & chr(0) –> rata kanan (default)
+Print #1, chr(27) & chr(97) & chr(1) –> rata tengah
+Print #1, chr(27) & chr(97) & chr(2) –> rata kanan
+Print #1, chr(27) & chr(33) & chr(4) –> memilih mode draft condenses (menghasilkan huruf yang berukuran kecil

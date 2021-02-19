@@ -1,0 +1,8 @@
+5/14/2013 5:48:00 PM Login Success 1313 / Deddy          
+5/14/2013 5:48:04 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 5:48:05 PM Reprint Transaction S001214-14052013-0012 1313 / Deddy          
+5/14/2013 5:48:48 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 5:48:49 PM Reprint Transaction S001214-14052013-0012 1313 / Deddy          
+5/14/2013 5:49:07 PM Login Success 1313 / Deddy          
+5/14/2013 5:49:11 PM Verifikasi Success -1 1313 / Deddy          
+5/14/2013 5:49:12 PM Reprint Transaction S001214-14052013-0012 1313 / Deddy          

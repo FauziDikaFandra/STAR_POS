@@ -1,0 +1,36 @@
+3/6/2013 1:54:30 PM OFFLINE
+3/6/2013 1:55:05 PM Login Success 1313 / Deddy                                             
+3/6/2013 1:58:26 PM OFFLINE
+3/6/2013 1:58:33 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:02:52 PM OFFLINE
+3/6/2013 2:02:56 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:06:06 PM OFFLINE
+3/6/2013 2:06:11 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:07:53 PM OFFLINE
+3/6/2013 2:08:00 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:13:42 PM OFFLINE
+3/6/2013 2:13:47 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:14:44 PM OFFLINE
+3/6/2013 2:15:17 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:18:33 PM OFFLINE
+3/6/2013 2:18:37 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:18:57 PM OFFLINE
+3/6/2013 2:19:44 PM OFFLINE
+3/6/2013 2:22:29 PM OFFLINE
+3/6/2013 2:22:59 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+3/6/2013 2:23:35 PM OFFLINE
+3/6/2013 2:23:55 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+3/6/2013 2:25:09 PM OFFLINE
+3/6/2013 2:25:34 PM OpenKoneksi [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied. -2147467259
+3/6/2013 2:29:19 PM OFFLINE
+3/6/2013 2:29:30 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:31:15 PM OFFLINE
+3/6/2013 2:34:34 PM OFFLINE
+3/6/2013 2:34:37 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:35:56 PM Verifikasi Success -2 1313 / Deddy                                             
+3/6/2013 2:36:49 PM OFFLINE
+3/6/2013 2:36:52 PM Login Success 1313 / Deddy                                             
+3/6/2013 2:38:54 PM Verifikasi Success -2 1313 / Deddy                                             
+3/6/2013 2:41:26 PM OFFLINE
+3/6/2013 2:41:40 PM OFFLINE
+3/6/2013 2:42:13 PM Login Success 1313 / Deddy                                             

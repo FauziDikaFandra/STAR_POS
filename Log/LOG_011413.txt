@@ -1,0 +1,16 @@
+1/14/2013 3:37:55 PM Login Success 1313 / Deddy          
+1/14/2013 3:38:04 PM Verifikasi Success -2 1313 / Deddy          
+1/14/2013 3:38:04 PM Close Shift 1313 / Deddy          
+1/14/2013 3:38:08 PM Login Success 1313 / Deddy          
+1/14/2013 3:38:16 PM Verifikasi Success -2 1313 / Deddy          
+1/14/2013 3:38:16 PM Close Shift 1313 / Deddy          
+1/14/2013 3:38:20 PM Login Success 1313 / Deddy          
+1/14/2013 3:38:24 PM Verifikasi Success -2 1313 / Deddy          
+1/14/2013 3:38:57 PM Login Success 1313 / Deddy          
+1/14/2013 3:39:01 PM Verifikasi Success -2 1313 / Deddy          
+1/14/2013 3:39:02 PM Close Register 1313 / Deddy          
+1/14/2013 4:36:06 PM Login Success 1313 / Deddy          
+1/14/2013 4:36:14 PM Verifikasi Success -2 1313 / Deddy          
+1/14/2013 4:36:15 PM Close Register 1313 / Deddy          
+1/14/2013 6:18:35 PM Login Success 1313 / Deddy          
+1/14/2013 6:23:18 PM Login Success 1313 / Deddy          

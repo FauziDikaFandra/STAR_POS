@@ -1,0 +1,32 @@
+11/23/2012 10:49:53 AM Login Success 1313 / Deddy          
+11/23/2012 10:52:13 AM Login Success 1313 / Deddy          
+11/23/2012 10:53:45 AM Login Success 1313 / Deddy          
+11/23/2012 10:57:22 AM Login Success 1313 / Deddy          
+11/23/2012 11:00:47 AM Login Success 1313 / Deddy          
+11/23/2012 11:04:24 AM Login Success 1313 / Deddy          
+11/23/2012 11:14:43 AM Login Success 1313 / Deddy          
+11/23/2012 11:41:27 AM Login Success 1313 / Deddy          
+11/23/2012 11:41:32 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:41:33 AM Reprint Transaction S002105-23112012-0003 1313 / Deddy          
+11/23/2012 11:42:25 AM Login Success 1313 / Deddy          
+11/23/2012 11:42:29 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:47:09 AM Login Success 1313 / Deddy          
+11/23/2012 11:47:15 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:47:42 AM Login Success 1313 / Deddy          
+11/23/2012 11:47:48 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:47:50 AM Reprint Transaction S002204-23112012-0004 1313 / Deddy          
+11/23/2012 11:49:07 AM Login Success 1313 / Deddy          
+11/23/2012 11:49:14 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:49:16 AM Reprint Transaction S002204-23112012-0004 1313 / Deddy          
+11/23/2012 11:50:14 AM Login Success 1313 / Deddy          
+11/23/2012 11:50:18 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:51:09 AM Login Success 1313 / Deddy          
+11/23/2012 11:51:12 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:51:44 AM Login Success 1313 / Deddy          
+11/23/2012 11:51:47 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:54:30 AM Login Success 1313 / Deddy          
+11/23/2012 11:54:34 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:54:37 AM Reprint Transaction S002204-23112012-0004 1313 / Deddy          
+11/23/2012 11:57:58 AM Login Success 1313 / Deddy          
+11/23/2012 11:58:02 AM Verifikasi Success -1 1313 / Deddy          
+11/23/2012 11:58:04 AM Reprint Transaction S002204-23112012-0004 1313 / Deddy          

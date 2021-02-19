@@ -1,0 +1,3 @@
+9/18/2014 4:53:53 PM Login Success 4103 / Ayu            
+9/18/2014 4:56:25 PM frmPayment Upload_to_Server The statement has been terminated. -2147217873
+9/18/2014 4:56:46 PM Login Success 4103 / Ayu            

@@ -1,0 +1,5 @@
+10/24/2012 1:27:57 PM OFFLINE
+10/24/2012 1:28:01 PM Login Success 1313 / Deddy                                             
+10/24/2012 2:06:23 PM Login Success 1313 / Deddy          
+10/24/2012 2:09:09 PM frmSOD SOD Query timeout expired -2147217871
+10/24/2012 2:10:14 PM frmSOD SOD Query timeout expired -2147217871

@@ -1,0 +1,68 @@
+10/12/2012 12:02:17 AM Login Success 1313/Deddy          
+10/12/2012 12:04:12 AM frmSOD SOD Column name or number of supplied values does not match table definition. -2147217900
+10/12/2012 12:04:38 AM frmSOD SOD Column name or number of supplied values does not match table definition. -2147217900
+10/12/2012 12:11:32 AM Login Success 1313/Deddy          
+10/12/2012 12:13:29 AM Login Success 1313/Deddy          
+10/12/2012 12:16:16 AM Login Success 1313/Deddy          
+10/12/2012 12:17:41 AM Login Success 1313/Deddy          
+10/12/2012 12:23:29 AM Login Success 1313/Deddy          
+10/12/2012 12:31:58 AM Login Success 1313/Deddy          
+10/12/2012 12:32:27 AM Login Success 1313/Deddy          
+10/12/2012 12:33:56 AM Login Success 1313/Deddy          
+10/12/2012 12:34:53 AM Login Success 1313/Deddy          
+10/12/2012 12:35:10 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:35:19 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:37:13 AM Login Success 1313/Deddy          
+10/12/2012 12:37:44 AM Login Success 1313/Deddy          
+10/12/2012 12:38:27 AM Login Success 1313/Deddy          
+10/12/2012 12:39:11 AM Login Success 1313/Deddy          
+10/12/2012 12:41:14 AM Login Success 1313/Deddy          
+10/12/2012 12:49:08 AM Login Success 1313/Deddy          
+10/12/2012 12:50:45 AM Login Success 1313/Deddy          
+10/12/2012 12:51:02 AM SQLQueryViolation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 insert into Card_Promotion (Card_Nr, Card_Nr_Promo, Card_Promo_Id, Card_Expired_date, Card_Activate_Date, Card_Status, User_Id_Activate) values ('CM001-12130','2','CPN001',getdate()+1825, getdate(), 'A', '1313') 
+10/12/2012 12:51:20 AM Login Success 1313/Deddy          
+10/12/2012 12:51:26 AM SQLQueryViolation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873 insert into Card_Promotion (Card_Nr, Card_Nr_Promo, Card_Promo_Id, Card_Expired_date, Card_Activate_Date, Card_Status, User_Id_Activate) values ('CM001-12130','2','CPN001',getdate()+1825, getdate(), 'A', '1313') 
+10/12/2012 12:53:45 AM Login Success 1313/Deddy          
+10/12/2012 12:53:54 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:53:56 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:53:57 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:53:59 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:54:02 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:54:04 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:54:47 AM Login Success 1313/Deddy          
+10/12/2012 12:54:51 AM frmCard Simpan Kartu Promo Invalid procedure call or argument 5
+10/12/2012 12:55:30 AM Login Success 1313/Deddy          
+10/12/2012 12:55:57 AM Login Success 1313/Deddy          
+10/12/2012 12:56:14 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:56:15 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:56:16 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:56:19 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 12:58:45 AM Login Success 1313/Deddy          
+10/12/2012 12:59:32 AM frmCard Simpan Kartu Promo Violation of PRIMARY KEY constraint 'PK_Card_Promotion_1'. Cannot insert duplicate key in object 'dbo.Card_Promotion'. -2147217873
+10/12/2012 1:06:24 AM Login Success 1313/Deddy          
+10/12/2012 9:20:11 AM Login Success 1313/Deddy          
+10/12/2012 9:23:04 AM Login Success 1313/Deddy          
+10/12/2012 9:28:21 AM Login Success 1313/Deddy          
+10/12/2012 9:39:45 AM Login Success 1313 / Deddy          
+10/12/2012 9:44:42 AM Login Success 1313 / Deddy          
+10/12/2012 10:24:58 AM Login Success 1313 / Deddy          
+10/12/2012 10:25:37 AM Login Success 1313 / Deddy          
+10/12/2012 10:26:13 AM Login Success 1313 / Deddy          
+10/12/2012 10:26:57 AM Login Success 1313 / Deddy          
+10/12/2012 10:29:26 AM Login Success 1313 / Deddy          
+10/12/2012 10:30:24 AM frmSOD SOD  0
+10/12/2012 10:30:24 AM Login Success 1313 / Deddy          
+10/12/2012 10:31:15 AM Login Success 1313 / Deddy          
+10/12/2012 1:18:24 PM Login Success 1313 / Deddy          
+10/12/2012 1:19:47 PM Login Success 1313 / Deddy          
+10/12/2012 2:15:47 PM Login Success 1313 / Deddy          
+10/12/2012 2:17:01 PM Login Success 1313 / Deddy          
+10/12/2012 2:17:58 PM Login Success 1313 / Deddy          
+10/12/2012 2:20:42 PM Login Success 1313 / Deddy          
+10/12/2012 2:21:14 PM Login Success 1313 / Deddy          
+10/12/2012 2:22:15 PM Login Success 1313 / Deddy          
+10/12/2012 2:31:17 PM Login Success 1313 / Deddy          
+10/12/2012 2:45:25 PM Login Success 1313 / Deddy          
+10/12/2012 3:22:00 PM Login Success 1313 / Deddy          
+10/12/2012 6:05:01 PM Login Success 1313 / Deddy          
+10/12/2012 6:06:11 PM Login Success 1313 / Deddy          

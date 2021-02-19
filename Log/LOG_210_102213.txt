@@ -1,0 +1,15 @@
+10/22/2013 9:14:26 AM Login Success 1313 / Deddy          
+10/22/2013 9:16:43 AM Login Success 1313 / Deddy          
+10/22/2013 9:18:02 AM Login Success 1313 / Deddy          
+10/22/2013 9:18:07 AM Verifikasi Success -2 1313 / Deddy          
+10/22/2013 9:18:11 AM Download Promo 1313 / Deddy          
+10/22/2013 9:19:53 AM Login Success 1313 / Deddy          
+10/22/2013 9:19:58 AM Verifikasi Success -2 1313 / Deddy          
+10/22/2013 9:19:59 AM Download Promo 1313 / Deddy          
+10/22/2013 9:21:18 AM Login Success 1313 / Deddy          
+10/22/2013 9:21:25 AM Verifikasi Success -2 1313 / Deddy          
+10/22/2013 9:21:25 AM Download Promo 1313 / Deddy          
+10/22/2013 9:22:11 AM Verifikasi Success -2 1313 / Deddy          
+10/22/2013 9:22:11 AM Download Promo 1313 / Deddy          
+10/22/2013 9:25:00 AM Verifikasi Success -2 1313 / Deddy          
+10/22/2013 9:25:00 AM Download Promo 1313 / Deddy          

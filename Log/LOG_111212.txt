@@ -1,0 +1,25 @@
+11/12/2012 12:47:47 PM Login Success 1313 / Deddy          
+11/12/2012 12:48:36 PM Login Success 1313 / Deddy          
+11/12/2012 12:51:08 PM Login Success 1313 / Deddy          
+11/12/2012 12:51:18 PM frmSales Simpan_Detail Incorrect syntax near 's'. -2147217900
+11/12/2012 12:55:51 PM Login Success 1313 / Deddy          
+11/12/2012 12:57:10 PM Login Success 1313 / Deddy          
+11/12/2012 1:43:22 PM Login Success 1313 / Deddy          
+11/12/2012 1:44:13 PM Login Success 1313 / Deddy          
+11/12/2012 1:44:28 PM Login Success 1313 / Deddy          
+11/12/2012 1:45:48 PM Login Success 1313 / Deddy          
+11/12/2012 1:46:09 PM Login Success 1313 / Deddy          
+11/12/2012 1:47:44 PM Login Success 1313 / Deddy          
+11/12/2012 1:53:49 PM Login Success 1313 / Deddy          
+11/12/2012 1:54:47 PM Login Success 1313 / Deddy          
+11/12/2012 1:55:20 PM Login Success 1313 / Deddy          
+11/12/2012 3:16:32 PM Login Success 1313 / Deddy          
+11/12/2012 4:17:10 PM Login Success 1313 / Deddy          
+11/12/2012 4:33:38 PM Login Success 1313 / Deddy          
+11/12/2012 4:36:20 PM Login Success 1313 / Deddy          
+11/12/2012 4:38:43 PM Login Success 1313 / Deddy          
+11/12/2012 5:57:31 PM Login Success 1313 / Deddy          
+11/12/2012 5:58:06 PM Login Success 1313 / Deddy          
+11/12/2012 5:59:17 PM Login Success 1313 / Deddy          
+11/12/2012 6:02:37 PM Login Success 1313 / Deddy          
+11/12/2012 6:08:38 PM Login Success 1313 / Deddy          

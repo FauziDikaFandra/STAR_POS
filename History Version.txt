@@ -1,0 +1,48 @@
+Tanggal : 27/2/2014
+Versi   : 32
+Update  : Untuk transaksi hold sebelumnya akan save header lalu ada savelog.
+
+Tanggal : 16/3/2015
+Versi   : 66
+Update  : Tambahan promo 15 (+5%) dan 16 (+10%) untuk disc progressif qty 2 dan 3
+
+Tanggal : 27/3/2015
+Versi   : 67
+Update  : Tambahan promo 17 (+20%) untuk disc progressif qty 2 dan 3
+
+Tanggal : 28/5/2015
+Versi   : 74
+Update  : Undian akan terisi nama dan no hp apabila transaksi menggunakan member
+
+Tanggal : 7/6/2015
+Versi   : 75
+Update  : SOD akan cek customer master member apabila record nol maka aka SOD ulang
+
+Tanggal : 25/6/2015
+Versi   : 75
+Update  : promo id 66, dobel kupon undian untuk member
+
+Tanggal : 14/8/2015
+Versi   : 79
+Update  : promo id 21, buy 1 disc 17% buy 2 disc 45%
+
+Tanggal : 26/8/2015
+Versi   : 81
+Update  : promo id 23, buy 3 disc 20%
+	  voucher fks tidak bisa bareng dengan voucher lain
+
+Tanggal : 23/9/2015
+Versi   : 82
+Update  : promo id 24, buy 3 get 2 free
+	  
+Tanggal : 10/11/2015
+Versi   : 85
+Update  : perbaikan untuk change
+
+Tanggal : 18/11/2015
+Versi   : 88
+Update  : promo id 25 dan 53, beli voucher star disc 10% (hanya boleh 1 kali)
+
+
+
+	  

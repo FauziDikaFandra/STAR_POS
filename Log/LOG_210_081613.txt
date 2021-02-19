@@ -1,0 +1,3 @@
+8/16/2013 2:51:41 PM Login Success 1313 / Deddy          
+8/16/2013 3:01:43 PM OFFLINE
+8/16/2013 3:01:44 PM GetSrvDate [DBNETLIB][ConnectionWrite (send()).]General network error. Check your network documentation. -2147467259

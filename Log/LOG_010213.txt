@@ -1,0 +1,63 @@
+1/2/2013 2:00:36 PM Login Success 1313 / Deddy          
+1/2/2013 2:00:43 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 2:00:43 PM Refund Transaction 1313 / Deddy          
+1/2/2013 2:01:26 PM 1 - KARTU BARU
+1/2/2013 2:03:14 PM Login Success 1313 / Deddy          
+1/2/2013 2:03:18 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 2:03:18 PM Refund Transaction 1313 / Deddy          
+1/2/2013 2:03:38 PM 1 - KARTU BARU
+1/2/2013 2:03:40 PM frmPayment Cek Lunas Invalid procedure call or argument 5
+1/2/2013 2:04:17 PM Login Success 1313 / Deddy          
+1/2/2013 2:04:25 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 2:04:25 PM Refund Transaction 1313 / Deddy          
+1/2/2013 2:05:32 PM Login Success 1313 / Deddy          
+1/2/2013 2:05:36 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 2:05:36 PM Refund Transaction 1313 / Deddy          
+1/2/2013 2:05:58 PM 123 - KARTU BARU
+1/2/2013 2:38:10 PM Login Success 1313 / Deddy          
+1/2/2013 2:38:14 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 2:38:14 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:08:42 PM Login Success 1313 / Deddy          
+1/2/2013 3:16:34 PM Verifikasi Success -2 1313 / Deddy          
+1/2/2013 3:16:35 PM Cancel Transaction S002214-02012013-0005 1313 / Deddy          
+1/2/2013 3:17:28 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 3:17:28 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:19:05 PM Login Success 1313 / Deddy          
+1/2/2013 3:19:09 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 3:19:09 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:26:24 PM Login Success 1313 / Deddy          
+1/2/2013 3:26:37 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 3:26:37 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:27:20 PM 123 - KARTU BARU
+1/2/2013 3:28:51 PM Login Success 1313 / Deddy          
+1/2/2013 3:28:56 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 3:28:56 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:29:21 PM 123 - KARTU BARU
+1/2/2013 3:29:42 PM Login Success 1313 / Deddy          
+1/2/2013 3:29:46 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 3:29:46 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:30:07 PM 123 - KARTU BARU
+1/2/2013 3:30:30 PM Login Success 1313 / Deddy          
+1/2/2013 3:30:35 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 3:30:35 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:30:50 PM 123 - KARTU BARU
+1/2/2013 3:31:35 PM Login Success 1313 / Deddy          
+1/2/2013 3:31:39 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 3:31:39 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:31:51 PM 123 - KARTU BARU
+1/2/2013 3:32:42 PM Login Success 1313 / Deddy          
+1/2/2013 3:32:47 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 3:32:47 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:33:00 PM 23 - KARTU BARU
+1/2/2013 3:34:13 PM Login Success 1313 / Deddy          
+1/2/2013 3:34:16 PM Verifikasi Success -1 1313 / Deddy          
+1/2/2013 3:34:16 PM Refund Transaction 1313 / Deddy          
+1/2/2013 3:34:34 PM 123 - KARTU BARU
+1/2/2013 3:35:04 PM Verifikasi Success -2 1313 / Deddy          
+1/2/2013 3:35:05 PM Cancel Transaction S002214-02012013-0007 1313 / Deddy          
+1/2/2013 3:35:08 PM frmSOD EOD Invalid object name 'promo_sales'. -2147217865
+1/2/2013 3:35:38 PM Login Success 1313 / Deddy          
+1/2/2013 3:36:39 PM Login Success 1313 / Deddy          
+1/2/2013 3:36:55 PM Login Success 1313 / Deddy          
+1/2/2013 3:37:22 PM Login Success 1313 / Deddy          
+1/2/2013 3:37:58 PM Login Success 1313 / Deddy          
